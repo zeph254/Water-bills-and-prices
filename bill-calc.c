@@ -1,3 +1,11 @@
+// Calculation of water bill based on units consumed
+
+/* 
+  name:         Owuor Zephania Ulare
+  reg:          PA106/G/29218/25
+  description:  This program calculates the water bill based on the number of units consumed.
+*/
+
 #include <stdio.h>
 
 int main() {
